@@ -1,0 +1,2 @@
+# STM32Cubemx_Vscode_Adapter
+用于将Cubemx生成的代码变化为能够被vscode编译烧录的脚本
